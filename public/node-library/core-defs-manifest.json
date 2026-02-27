@@ -1,6 +1,6 @@
 {
   "version": "2026-02-27",
-  "generatedAt": "2026-02-27T01:09:08.653Z",
+  "generatedAt": "2026-02-27T12:35:32.494Z",
   "core": {
     "path": "./comfyui-nodes-ultimate.json",
     "url": "https://raw.githubusercontent.com/MauriceBourdon/comfyui-core-registry/main/public/node-library/comfyui-nodes-ultimate.json",
@@ -12,6 +12,6 @@
   "comfyui": {
     "repo": "Comfy-Org/ComfyUI",
     "ref": "master",
-    "commit": "c7f7d52b684f661d911f1747bb6954978fa1d1b9"
+    "commit": "35e9fce7756604050f07a05d090e697b81322c44"
   }
 }
