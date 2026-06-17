@@ -1,17 +1,17 @@
 {
-  "version": "2026-06-16",
-  "generatedAt": "2026-06-16T16:23:02.243Z",
+  "version": "2026-06-17",
+  "generatedAt": "2026-06-17T02:41:27.124Z",
   "core": {
     "path": "./comfyui-nodes-ultimate.json",
     "url": "https://raw.githubusercontent.com/MauriceBourdon/comfyui-core-registry/main/public/node-library/comfyui-nodes-ultimate.json",
-    "sha256": "b1ddcf8fb2a26e6b7a10da2857a53761caf786c820d2d93faff0b2852a9f6a91",
-    "bytes": 1311716,
+    "sha256": "80208163ff5d4e40568089fa1f5bebcddb8c6cac4fe45aa79be7a54708dcf500",
+    "bytes": 1311966,
     "nodeCount": 782,
     "format": "object_info"
   },
   "comfyui": {
     "repo": "Comfy-Org/ComfyUI",
     "ref": "master",
-    "commit": "90eeeb21390b746da522bb2882af6090d869ba2a"
+    "commit": "c7b246edc4401307172b22eb257896c1b5eb6a24"
   }
 }
