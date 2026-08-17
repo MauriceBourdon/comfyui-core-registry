@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-16",
-  "generatedAt": "2026-08-16T12:18:14.620Z",
+  "version": "2026-08-17",
+  "generatedAt": "2026-08-17T00:37:45.359Z",
   "core": {
     "path": "./comfyui-nodes-ultimate.json",
     "url": "https://raw.githubusercontent.com/MauriceBourdon/comfyui-core-registry/main/public/node-library/comfyui-nodes-ultimate.json",
